@@ -21,3 +21,5 @@ To run tests
 ```shell
 mvn test
 ```
+
+Also find on https://github.com/humorson2021/foo-parameterization
